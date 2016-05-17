@@ -71,6 +71,9 @@ valueOf() 	Returns the primitive value of an array <br />
  <br />
  <br />
 ##Prototypes <br />
+-Objects__
+-Variables__
+-Functions
  <br />
 ##DOM <br />
  <br />
