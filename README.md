@@ -4,9 +4,9 @@
 
 ##Introducere si familiarizare cu sintaxa
 
-**-Comenzi de baza (if, for, while, switch, for...in, break, continue, return)** <br />
+**-Statements (if, for, while, switch, for...in, break, continue, return)** <br />
 **-Vars (Globale vs Locale)** <br />
-**-Operatori (+, -, ++, --, ==, ===, !=, !==, >, <, =>, =<, *, /, %, +=, -=, /=, %/)** <br />
+**-Operators (+, -, ++, --, ==, ===, !=, !==, >, <, =>, =<, *, /, %, +=, -=, /=, %/)** <br />
 **-Strings** <br />
 charAt() 	Returns the character at the specified index (position) <br />
 charCodeAt() 	Returns the Unicode of the character at the specified index <br />
@@ -71,8 +71,8 @@ valueOf() 	Returns the primitive value of an array <br />
  <br />
  <br />
 ##Prototypes <br />
--Objects__
--Variables__
+-Objects <br />
+-Variables <br />
 -Functions
  <br />
 ##DOM <br />
@@ -88,3 +88,6 @@ valueOf() 	Returns the primitive value of an array <br />
 -Style
 
 ##TimeFunctions (setTimeout, setInterval)
+
+
+**And now practice it!**
