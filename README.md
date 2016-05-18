@@ -7,6 +7,8 @@
 **-Statements (if, for, while, switch, for...in, break, continue, return)** <br />
 **-Vars (Globale vs Locale)** <br />
 **-Operators (+, -, ++, --, ==, ===, !=, !==, >, <, =>, =<, *, /, %, +=, -=, /=, %/)** <br />
+**-Numbers** <br />
+**-Functions** <br />
 **-Strings** <br />
 charAt() 	Returns the character at the specified index (position) <br />
 charCodeAt() 	Returns the Unicode of the character at the specified index <br />
@@ -33,9 +35,6 @@ toString() 	Returns the value of a String object <br />
 toUpperCase() 	Converts a string to uppercase letters <br />
 trim() 	Removes whitespace from both ends of a string <br />
 valueOf() 	Returns the primitive value of a String object <br />
- <br />
- <br />
-**-Numbers** <br />
  <br />
  <br />
 **-Arrays** <br />
@@ -65,9 +64,6 @@ splice() 	Adds/Removes elements from an array <br />
 toString() 	Converts an array to a string, and returns the result <br />
 unshift() 	Adds new elements to the beginning of an array, and returns the new length <br />
 valueOf() 	Returns the primitive value of an array <br />
- <br />
- <br />
-**-Functions** <br />
  <br />
  <br />
 ##Prototypes <br />
