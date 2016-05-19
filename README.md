@@ -1,6 +1,6 @@
 # TrainingJavaScript
 
-##Introducere in JavaScript, Prototypes & DOOM
+##Introducere in JavaScript, Prototypes & DOM
 
 ##Introducere si familiarizare cu sintaxa
 
@@ -85,5 +85,3 @@ valueOf() 	Returns the primitive value of an array <br />
 
 ##TimeFunctions (setTimeout, setInterval)
 
-
-**And now practice it!**
